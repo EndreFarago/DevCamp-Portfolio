@@ -1,0 +1,2 @@
+class Profolio < ApplicationRecord
+end
